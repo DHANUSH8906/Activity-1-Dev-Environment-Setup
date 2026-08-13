@@ -1,0 +1,1 @@
+Hi, I'm Dhanush Kurunji, a Computer Science student interested in software development and technology. I am currently learning programming, Git, GitHub, and web development while working on different coding projects.
