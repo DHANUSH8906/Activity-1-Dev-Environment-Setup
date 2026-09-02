@@ -11,3 +11,4 @@ Activity-3 Updated:
 My name is Dhanush A Kurunji, I am a Computer science student in Reva University. This repository is created for Portfolio Building classes.
 
 My Skill: Learning Data Structures
+My interest: Coding in Java and C
