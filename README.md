@@ -12,3 +12,4 @@ My name is Dhanush A Kurunji, I am a Computer science student in Reva University
 
 My Skill: Learning Data Structures
 My interest: Coding in Java and C
+My goal: To improve my technical skills which would help me in my future.
