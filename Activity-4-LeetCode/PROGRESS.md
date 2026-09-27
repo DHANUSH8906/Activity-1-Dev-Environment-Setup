@@ -4,3 +4,4 @@
 |---|---|---|---|---|---|
 | 27/09/2026 | Two Sum | Arrays & Strings | Easy | ✅ Solved | 10 min |
 | 27/09/2026 | Reverse String | Arrays & Strings | Easy | ✅ Solved | 10 min |
+| 27/09/2026 | Valid Anagram | Arrays & Strings | Easy | ✅ Solved | 17 min |
